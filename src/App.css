@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body{
+    background-color: #f2bd00;
+    color: #015ca8;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    text-outline: #015ca8;
+}
+
+button{
+    font-family: 'Righteous', cursive;
+    font-size: large;
+    height:30px;
+    width: 100px;
+    margin: 10px;
+    background-color: #015ca8;
+    color: #ecece8;
+}
+
+button:hover{
+    background-color: crimson;
+}
+
